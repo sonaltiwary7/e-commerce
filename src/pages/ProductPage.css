@@ -1,0 +1,11 @@
+.product-page {
+    margin-top: 50px;
+}
+
+.product-page img {
+    max-width: 100%;
+}
+
+.product-page button {
+    margin-top: 20px;
+}
